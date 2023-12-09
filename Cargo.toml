@@ -1,13 +1,13 @@
 [package]
 name = "ip_extractor"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A Simple crate that wraps around the ifconfig command to extract network interfaces and their ip addresses"
 repository = "https://github.com/newtoallofthis123/ip_extractor"
 license = "MIT"
 readme = "README.md"
 keywords = ["ip", "network", "extractor", "ifconfig"]
-categories = ["networking"]
+categories = ["network-programming"]
 authors = ["NoobScience <noobscience@duck.com>"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
